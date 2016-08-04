@@ -1,0 +1,6 @@
+F:\coding\proj\sonarViewer\code\sonarConsoleApp\sonarConsoleApp\bin\Debug\sonarConsoleApp.exe.config
+F:\coding\proj\sonarViewer\code\sonarConsoleApp\sonarConsoleApp\bin\Debug\sonarConsoleApp.exe
+F:\coding\proj\sonarViewer\code\sonarConsoleApp\sonarConsoleApp\bin\Debug\sonarConsoleApp.pdb
+F:\coding\proj\sonarViewer\code\sonarConsoleApp\sonarConsoleApp\obj\Debug\sonarConsoleApp.csprojResolveAssemblyReference.cache
+F:\coding\proj\sonarViewer\code\sonarConsoleApp\sonarConsoleApp\obj\Debug\sonarConsoleApp.exe
+F:\coding\proj\sonarViewer\code\sonarConsoleApp\sonarConsoleApp\obj\Debug\sonarConsoleApp.pdb
